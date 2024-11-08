@@ -2,12 +2,7 @@
 const nextConfig = {
   typescript: {
     ignoreBuildErrors: true
-  },
-  output: 'export',
-  images: {
-    unoptimized: true,
-  },
-  basePath: '/sankar-portofolio', // Replace with your repository name
+  }, // Replace with your repository name
 };
 
 export default nextConfig;
