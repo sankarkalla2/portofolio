@@ -9,7 +9,7 @@ export const DATA = {
   locationLink:
     "https://www.google.com/maps/place/Visakhapatnam,+Andhra+Pradesh/@17.7390511,82.9329315,10z/data=!4m15!1m8!3m7!1s0x3a39431389e6973f:0x92d9c20395498468!2sVisakhapatnam,+Andhra+Pradesh!3b1!8m2!3d17.6868159!4d83.2184815!16zL20vMDFqbXBm!3m5!1s0x3a39431389e6973f:0x92d9c20395498468!8m2!3d17.6868159!4d83.2184815!16zL20vMDFqbXBm?entry=ttuo",
   description:
-    "Tech Enthusiast & Full Stack Developer | Expertised in React.js, Node.js, OAuth & Payment Processing",
+    "Full Stack Developer | MERN Stack | 350+ Leetcode Problems Solved",
   summary:
     "I&apos;m a full stack developer. I&apos;ve completed B.Tech in Computer Science Engineering in 2024. I&apos;m a detail oriented software engineer with experience of working on internship and multiple personal projects.  I have solved 400+ problems on Leetcode. Demonstrated expertise in Javascript, Reactjs, Nextjs, Nodejs",
   avatarUrl: "/me.png",
@@ -80,22 +80,22 @@ export const DATA = {
     },
   ],
   education: [
-    {
-      school: "ZPHSchool",
-      href: "https://buildspace.so",
-      degree: "High School",
-      logoUrl: "/zphshool.jpg",
-      start: "2015",
-      end: "2018",
-    },
-    {
-      school: "Naidu Junor College",
-      href: "https://www.justdial.com/Visakhapatnam/Naidu-Junior-College-Near-Main-Road-Tagarapuvalasa-Bheemunipatnam/0891PX891-X891-240425230436-Q8X9_BZD",
-      degree: "Intemidiate Education",
-      logoUrl: "/intermidiate.jpg",
-      start: "2018",
-      end: "2020",
-    },
+    // {
+    //   school: "ZPHSchool",
+    //   href: "https://buildspace.so",
+    //   degree: "High School",
+    //   logoUrl: "/zphshool.jpg",
+    //   start: "2015",
+    //   end: "2018",
+    // },
+    // {
+    //   school: "Naidu Junor College",
+    //   href: "https://www.justdial.com/Visakhapatnam/Naidu-Junior-College-Near-Main-Road-Tagarapuvalasa-Bheemunipatnam/0891PX891-X891-240425230436-Q8X9_BZD",
+    //   degree: "Intemidiate Education",
+    //   logoUrl: "/intermidiate.jpg",
+    //   start: "2018",
+    //   end: "2020",
+    // },
     {
       school: "Avanthi Institute Of Engineering and Technology",
       href: "https://aietta.ac.in",
