@@ -12,7 +12,7 @@ export const DATA = {
     "Full Stack Developer | MERN Stack | 350+ Leetcode Problems Solved",
   summary:
     "I&apos;m a full stack developer. I&apos;ve completed B.Tech in Computer Science Engineering in 2024. I&apos;m a detail oriented software engineer with experience of working on internship and multiple personal projects.  I have solved 400+ problems on Leetcode. Demonstrated expertise in Javascript, Reactjs, Nextjs, Nodejs",
-  avatarUrl: "/me.png",
+  avatarUrl: "/sankar.jpg",
   skills: [
     "React",
     "Next.js",
